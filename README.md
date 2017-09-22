@@ -9,5 +9,3 @@ look up better text editors
 
 write up the common git commands
 
-ignore
-dkjshjkds
